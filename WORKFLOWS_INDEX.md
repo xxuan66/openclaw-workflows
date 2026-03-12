@@ -63,4 +63,64 @@
 
 ---
 
-**最后更新:** 2026-03-10 (Day 001)
+**最后更新:** 2026-03-13 (Day 004)
+
+---
+
+## 💡 工作流调试技巧（2026-03-13 新增）
+
+> 当工作流不按预期运行时，可以参考以下调试步骤：
+
+### 1. 检查 Cron 任务状态
+
+```bash
+# 查看所有任务
+openclaw cron list
+
+# 查看特定任务的执行历史
+openclaw cron runs <job-id>
+```
+
+### 2. 检查日志
+
+```bash
+# 查看 Gateway 日志
+openclaw gateway status
+
+# 查看最近的系统消息
+openclaw logs --limit 50
+```
+
+### 3. 隔离测试
+
+```bash
+# 手动触发工作流进行测试
+openclaw cron run <job-id>
+
+# 使用 isolated session 避免污染主对话
+openclaw agent -m "测试工作流" --session-id test-workflow
+```
+
+### 4. 常见问题
+
+| 问题 | 解决方案 |
+|------|---------|
+| 任务不执行 | 检查 Gateway 状态，确认 cron 启用 |
+| 输出不完整 | 检查 timeout 设置，增加 yieldMs |
+| 模型切换失败 | 确认模型名称正确，重启 Gateway |
+
+---
+
+## 🆕 2026-03-13 更新
+
+- ✅ 更新索引日期至 2026-03-13
+- ✅ 新增工作流调试技巧章节
+- ✅ 补充常见问题排查方法
+
+---
+
+## 🆕 2026-03-12 更新
+
+- ✅ 更新索引日期
+- ✅ daily-briefing 说明文档已完善
+- ✅ 工作流分类优化
