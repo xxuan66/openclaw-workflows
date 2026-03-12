@@ -2,7 +2,7 @@
 
 > 🔄 OpenClaw 自动化工作流集合 - 从单一功能到自动化流程
 
-[![Updated](https://img.shields.io/badge/updated-2026--03--12-blue)](https://github.com/xxuan66/openclaw-workflows)
+[![Updated](https://img.shields.io/badge/updated-2026--03--13-blue)](https://github.com/xxuan66/openclaw-workflows)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/xxuan66/openclaw-workflows/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/xxuan66/openclaw-workflows?style=social)](https://github.com/xxuan66/openclaw-workflows/stargazers)
 
@@ -203,8 +203,16 @@ MIT License
 
 ---
 
-**最后更新:** 2026-03-12  
+**最后更新:** 2026-03-13  
 **维护者:** [@xxuan66](https://github.com/xxuan66)
+
+---
+
+## 🆕 2026-03-13 更新
+
+- ✅ 更新 README 日期标识至 2026-03-13
+- ✅ WORKFLOWS_INDEX.md 补充使用建议
+- ✅ 新增工作流调试技巧
 
 ---
 
