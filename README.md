@@ -1,21 +1,5 @@
 # ⚡ OpenClaw Workflows
 
-## 📊 仓库统计
-
-> 🤖 每日自动更新 · 最后更新：2026-03-15
-
-| 指标 | 数值 |
-|------|------|
-| ⭐ Stars | 0 |
-| 🍴 Forks | 0 |
-| 👀 访问量 | 31 |
-| 📥 克隆数 | 41 |
-
----
-
-
-
-
 > 🔄 OpenClaw 自动化工作流集合 - 从单一功能到自动化流程
 
 [![Updated](https://img.shields.io/badge/updated-2026--03--13-blue)](https://github.com/xxuan66/openclaw-workflows)
