@@ -32,7 +32,12 @@
 
 | 工作流 | 难度 | 状态 | 链接 |
 |--------|------|------|------|
+| github-daily-ops | ⭐⭐ | ✅ 已完成 | [查看](development/github-daily-ops/README.md) |
+
+| 工作流 | 难度 | 状态 | 链接 |
+|--------|------|------|------|
 | pr-review | ⭐⭐⭐ | 🚧 准备中 | - |
+| github-daily-ops | ⭐⭐ | ✅ | [查看](development/github-daily-ops/) |
 | bug-triage | ⭐⭐⭐ | 🚧 准备中 | - |
 
 ### 📱 社交媒体 (Social Media)
@@ -63,7 +68,7 @@
 
 ---
 
-**最后更新:** 2026-03-13 (Day 004)
+**最后更新: 2026-03-18 (Day 004)
 
 ---
 

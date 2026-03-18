@@ -2,7 +2,7 @@
 
 > 🔄 OpenClaw 自动化工作流集合 - 从单一功能到自动化流程
 
-[![Updated](https://img.shields.io/badge/updated-2026--03--13-blue)](https://github.com/xxuan66/openclaw-workflows)
+[![Updated](https://img.shields.io/badge/updated-2026--03--18-blue)](https://github.com/xxuan66/openclaw-workflows)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/xxuan66/openclaw-workflows/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/xxuan66/openclaw-workflows?style=social)](https://github.com/xxuan66/openclaw-workflows/stargazers)
 
